@@ -6,4 +6,6 @@ And I click on login button
 Then I see my facebook profile 
 Examples: 
 | email address         |   password			|	 
-| jfsayam19@gmail.com		| Jf01717869893		|					
+| jfsayam19@gmail.com		| Jf01717869893		|	
+
+|Jamil F Sayam					|				
